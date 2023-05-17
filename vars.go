@@ -10,7 +10,7 @@ const (
 const (
 	// task
 	Img2ImgRoute            = "/sdapi/v1/img2img"
-	Txt2ImgRoute            = "/sdapi/v1/txt2img"             // TODO
+	Txt2ImgRoute            = "/sdapi/v1/txt2img"
 	ExtraSingleImageRoute   = "/sdapi/v1/extra-single-image"  // TODO
 	ExtraBatchImageRoute    = "/sdapi/v1/extra-batch-images"  // TODO
 	PngInfoRoute            = "/sdapi/v1/png-info"            // TODO
